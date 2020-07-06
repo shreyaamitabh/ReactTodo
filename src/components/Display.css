@@ -10,6 +10,7 @@ color: slategrey;
 padding-top: 0.5em;
    font-size: larger;
 font-weight: bold;
+margin-left: 1em;;
 }
 .close {
     cursor: pointer;
@@ -20,8 +21,8 @@ font-weight: bold;
     transform: translate(0%, -50%);
   }
   #outerContainer{
-      /* background-color: rgb(166, 175, 175); */
-    background-color: rgb(244, 247, 250);
+    background-color: white;
       width: 60%;
       margin-top: 6em;
+     border-radius: 15px;
   }
